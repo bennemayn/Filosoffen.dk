@@ -11,11 +11,6 @@
     <div>
     
     </div>
-        <asp:CheckBoxList ID="CheckBoxList1" runat="server">
-        </asp:CheckBoxList>
-        <asp:Image ID="Image1" runat="server" />
-        <asp:View ID="View1" runat="server">
-        </asp:View>
     </form>
 </body>
 </html>
